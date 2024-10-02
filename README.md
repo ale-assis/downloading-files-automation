@@ -1,4 +1,3 @@
-# automation-for-downloading
 an automation in python for downloading files from sites
 
 This time, I used pyautogui and time lib! I had so many files to download so I tried this script and hopefully worked well!
